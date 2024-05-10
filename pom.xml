@@ -20,5 +20,11 @@
             <version>3.45.3.0</version>
         </dependency>
     </dependencies>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/lwrb172/site</url>
+        </repository>
+    </distributionManagement>
 
 </project>
